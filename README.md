@@ -43,26 +43,41 @@ Assumptions:
 Technical interviewing should be considered a trainable skill prioritized throughout the curriculum and not a step to complete *after* training.
 
 **Phase 1 Integration**
+
 _Skills learned:_ Git, CLI, HTML, CSS, Accessibility, and UX.
+
 _Knowledge technical:_ HTML & CSS questions
+
 _"On-site" Practical:_ Re-build the VWC testimonials page with HTML/CSS
-*Behavioral:*  How have you handled conflict with a manager?
+
+_Behavioral:_  How have you handled conflict with a manager?
 
 **Phase 2 Integration**
+
 _Skills learned:_ Data types, control flow, conditionals, arrays, modern-JS features
+
 _Knowledge technical:_ Basic JS questions
+
 _"On-site" DS&A:_ [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) & [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+
 _"On-site" Practical:_  Implement a function that takes in a list of objects then adds a value to each item, then filters the list based on that added items value.
-*Behavioral:*  Can you explain a time where a different perspective was introduced that changed your viewpoint?
+
+_Behavioral:_  Can you explain a time where a different perspective was introduced that changed your viewpoint?
 
 **Phase 3 Integration**
+
 *Skills learned:* React, Next, Event Listeners, JSX.
+
 *Knowledge technical:* React questions, Next questions
+
 *"On-site" DS&A:* [Two Sum](https://leetcode.com/problems/two-sum/) & [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+
 *"On-site" Practical:* Re-build the VWC board page with a mocked API that returns different data than what's displayed on the real page.
+
 *Behavioral:*  Can you give an example where you were given incorrect information for a task from a manager and how you handled it?
 
 **Phase 4+**
+
 Continued mock interviews tailored on a case-by-case basis on their needs or what they are expecting to see in a scheduled real interview.  An example of this would be asking Stephan to add features into a mocked Angular application to help prepare for a real interview on Angular.
 
 ## Technology
@@ -93,6 +108,7 @@ Option 2 - CoderByte (or any other provider) Subscription
 	* Could be overkill for current interview requirements
 
 **Suggested Option**
+
 Option 1 to start and if scaling & maintainability becomes an issue migrating to Option 2.
 
 ## Risks & Mitigation
